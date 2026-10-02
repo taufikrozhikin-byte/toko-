@@ -1,0 +1,6 @@
+{
+  "name": "WarungPedia — Toko Serba Ada & Laporan Penjualan Admin",
+  "description": "Platform toko online serba ada lengkap dengan katalog produk, keranjang belanja, integrasi sistem pembayaran Indonesia (QRIS, VA Bank, E-Wallet), serta dashboard laporan penjualan dan inventaris untuk admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
